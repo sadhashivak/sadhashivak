@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sadhashivak
 - 👀 I’m interested in cloud technology
 - 🌱 I’m currently learning AWS and DevOps
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sadhashiva222@gmail.com
 
 <!---
